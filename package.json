@@ -22,7 +22,8 @@
   "dependencies": {
     "@figma/plugin-typings": "^1.16.1",
     "react": "^16.9.0",
-    "react-figma": "latest"
+    "react-figma": "^0.17.1",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "html-webpack-inline-source-plugin": "^0.0.10",
